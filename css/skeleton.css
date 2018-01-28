@@ -161,10 +161,14 @@ p {
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
   color: black;
-  text-decoration:none;
+  /*text-decoration:none;*/
 }
 a:hover {
   color: grey; }
+
+a.badness {
+  text-decoration:none;
+}
 
   /*a {
     color: #1EAEDB; }

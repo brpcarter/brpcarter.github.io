@@ -32,8 +32,8 @@
 /* Values
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .values {
-  background-image: url('../images/values-bg.jpg');
-  background-size: cover;
+  /*background-image: url('../images/values-bg.jpg');
+  background-size: cover;*/
   color: #fff;
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
@@ -105,6 +105,18 @@ a.pf-link, a.pf-link:hover, a.pf-link:visited, a.pf-link:link, a.pf-link:active,
 .pf-image:hover {
   -webkit-filter: grayscale(0%); /* Safari 6.0 - 9.0 */
   filter: grayscale(0%);
+}
+
+/* Portfolio Links
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.contact-card-name {
+  color: #FFF;
+}
+
+.contact-card {
+  opacity: .8;
+  text-align: right;
+  color: #fff;
 }
 
 /* Help
