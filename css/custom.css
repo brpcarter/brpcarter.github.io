@@ -59,6 +59,7 @@
   text-decoration: none;
   white-space: pre;
   color: #fff;
+  padding-top: 0.5rem;
 }
 
 .navbar-right, .navbar-right:hover, .navbar-right:visited, .navbar-right:link, .navbar-right:active {
@@ -71,6 +72,15 @@
   color: #fff;
   padding-top: 0.5rem;
 }
+
+.navbar-h6 {
+  opacity: .8;
+  text-align: right;
+  color: #fff;
+  padding-top: 0.5rem;
+  font-size: 0.8rem;
+}
+
 
 .navbar-right-contact {
   text-decoration: none;
